@@ -1,6 +1,3 @@
----
-title: Content Structure
----
 
 <Meta title="Content Structure" />
 
