@@ -1,3 +1,7 @@
+---
+title: Content Structure
+---
+
 <Meta title="Content Structure" />
 
 Content at Lightstep can take many different forms to serve different audiences. In general though, because they are all delivered over the web, they all use the same basic structure. 
