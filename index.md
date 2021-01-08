@@ -1,3 +1,3 @@
-## [Voice and Tone](/voice_tone.html)
+## [Voice and Tone](/content-style-guide/voice_tone.html)
 
-## [Content Structure](/content_structure.html)
+## [Content Structure](/content-style-guide/content_structure.html)
