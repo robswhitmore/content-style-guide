@@ -39,7 +39,7 @@ Marketing - but anyone in the company can create a blog post.
 Anyone visiting the Lightstep website or redirected directly from a social post or other website. 
 
 **Guidelines**:
-<p style="color:red;">Do we have stds for blog posts?</p>
+<span style="color:red;">Do we have stds for blog posts?</span>
 
 ### Product doc topics
 **Description**:
@@ -116,7 +116,7 @@ Marketing and Customer Success
 Prospective, new, and existing customers
 
 **Guidelines**:
-<p style="color:red;">This is from the old style guide. Still accurate?</p>
+<span style="color:red;">This is from the old style guide. Still accurate?</span>
 *   Personalize emails with meaningful content for high-value targets
 *   Provide a way to opt out of future emails
 *   Be persistent but don’t be overly pushy
@@ -135,7 +135,7 @@ Marketing, but any employee can post/re-post about Lightstep to their own accoun
 DevOps and anyone interested in Observability, as well as existing customers
 
 **Guidelines**:
-<p style="color:red;">Do we have existing guidelines?</p>
+<span style="color:red;">Do we have existing guidelines?</span>
 
 
 ## Content components
