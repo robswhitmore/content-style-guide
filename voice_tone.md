@@ -1,11 +1,11 @@
 <Meta title="Voice and Tone" />
 
-<p style="color:red;">Most of this content was taken from <a href="https://docs.google.com/document/d/1ZbexAt2UR2Dbw9CYSdBg5oJNK5Grxk3PIWHU94_x-JM/edit#heading=h.xgq0qeagedfq">Lightstep Voice & Tone Guidelines</a></p>
+<span style="color:red;">Most of this content was taken from <a href="https://docs.google.com/document/d/1ZbexAt2UR2Dbw9CYSdBg5oJNK5Grxk3PIWHU94_x-JM/edit#heading=h.xgq0qeagedfq">Lightstep Voice & Tone Guidelines</a></span>
 
 The voice and tone used in our content is important in establishing our brand. The more cohesive we can be across deliverables, the more the public will recognize Lightstep.
 
 ## TLDR; What you need to know about voice and tone
-<p style="color:red;">I added this section cause I'm pretty sure not many will slog through everything to find what they need.</p>
+<span style="color:red;">I added this section cause I'm pretty sure not many will slog through everything to find what they need.</span>
 
 The rest of this guideline provides the "why" for our voice and tone, along with examples of using our voice and tone correctly. Read this section to quickly understand where voice and tone are important and how to use it in specific deliverables. 
 
@@ -26,19 +26,19 @@ While our voice doesn’t change, our tone should shift depending on what we’r
 
 Deliverable | Tone |
 -------|--------|
-Website | <p style="color:red;">Add</p> 
-Blog posts | <p style="color:red;">Add</p> 
-Emails | <p style="color:red;">Add</p> 
-Social media | <p style="color:red;">Add</p> 
+Website | <span style="color:red;">Add</span> 
+Blog posts | <span style="color:red;">Add</span> 
+Emails | <span style="color:red;">Add</span> 
+Social media | <span style="color:red;">Add</span> 
 Docs (OTel & LP) | Concise, informative, non-sensational 
 Feature discovery | Relatable, informative, concise 
 Error messages | Unalarming, informative,  
 Warnings/cautions | Authoritative, informative
-Info messages | <p style="color:red;">Add</p> 
+Info messages | <span style="color:red;">Add</span> 
 Success messages | Congratulatory, happy
 
 ### Quick guidelines
-Here are some quick guidelines you should always follow. You can find more comprehensive grammar/style guidelines [here]()<p style="color:red;">Link to grammar list</p>
+Here are some quick guidelines you should always follow. You can find more comprehensive grammar/style guidelines [here]()<span style="color:red;">Link to grammar list</span>
 
 **Use active voice**
 Use an active voice: the subject does the action vs having the action done to it.
@@ -95,7 +95,7 @@ As a guide, we want to use precise, accurate, technical language but always use 
 
 ## Brand Foundation
 
-<p style="color:red;">Does this section belong here? Is it needed?</p>
+<span style="color:red;">Does this section belong here? Is it needed?</span>
 
 
 ### Our Mission 
@@ -123,7 +123,7 @@ Lightstep gives developers big picture clarity. Down to the smallest details. So
 
 
 ### Our Audience 
-<p style="color:red;">I don't think this is still true?</p>
+<span style="color:red;">I don't think this is still true?</span>
 
 **Our primary target is the developer.** 
 
@@ -320,13 +320,13 @@ Simple observability for deep systems
 
 
 #### Elevator pitch [WIP] 
-<p style="color:red;">Was this ever decided?</p>
+<span style="color:red;">Was this ever decided?</span>
 
 Lightstep is… 
 
 
 #### Origin story [WIP] 
-<p style="color:red;">Is this needed?</p>
+<span style="color:red;">Is this needed?</span>
 
 Our founding team witnessed the birth of microservices at Google. That experience guides our understanding of their benefits, and it also informs our understanding of their risks and pitfalls. We created Lightstep because we understand the massive architectural transformation underway in the software industry, and we saw an opportunity to accelerate it, all while improving the quality of the developer and end-user experience. While we learned a great deal from our experiences building Dapper (Google’s distributed tracing solution) and Monarch (Google’s high-availability metrics solution), Lightstep is in many ways a reaction to and a generational improvement beyond those approaches. Our story as individuals and as a company revolves around continuous learning, careful listening, and the belief that these fundamentally new software architectures require fundamentally new solutions.
 
